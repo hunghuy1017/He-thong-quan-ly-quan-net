@@ -1,0 +1,69 @@
+﻿<Window x:Class="WpfApp1.ComputerTypeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfApp1"
+        Title="Quản lý Loại Máy Tính" Height="400" Width="500"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <local:IndexConverter x:Key="IndexConverter"/>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Toolbar -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0,0,0,10">
+            <Button Content="➕ Thêm loại" Width="100" Margin="0,0,10,0" Click="Add_Click"/>
+            <Button Content="💾 Lưu thay đổi" Width="120" Click="Save_Click"/>
+        </StackPanel>
+
+        <!-- DataGrid hiển thị danh sách loại -->
+        <DataGrid x:Name="TypeGrid"
+                  Grid.Row="1"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  IsReadOnly="False"
+                  AlternationCount="1000"
+                  RowBackground="White"
+                  AlternatingRowBackground="#FFF0F0F0">
+            <DataGrid.Columns>
+
+                <!-- STT (Số thứ tự) -->
+                <DataGridTemplateColumn Header="STT" Width="50">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding RelativeSource={RelativeSource AncestorType=DataGridRow},
+                                                      Path=AlternationIndex,
+                                                      Converter={StaticResource IndexConverter}}" 
+                                       HorizontalAlignment="Center"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <!-- Tên loại -->
+                <DataGridTextColumn Header="Tên loại" Binding="{Binding TypeName}" Width="*" />
+
+                <!-- Giá/giờ -->
+                <DataGridTextColumn Header="Giá/giờ" Binding="{Binding HourlyRate}" Width="100"/>
+
+                <!-- Xoá -->
+                <DataGridTemplateColumn Header="Xoá" Width="60">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="🗑" Click="Delete_Click" Background="Red" Foreground="White" Width="40"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Thoát -->
+        <Button Grid.Row="2" Content="Đóng" HorizontalAlignment="Right" Margin="0,10,0,0" Width="80" Click="Close_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,63 @@
+﻿<Window x:Class="WpfApp1.AccountManagerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfApp1" 
+        Title="Quản lý tài khoản" Height="450" Width="800">
+
+    <!-- Khai báo Resource cho IndexConverter -->
+    <Window.Resources>
+        <local:IndexConverter x:Key="IndexConverter"/>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="👥 Danh sách tài khoản" FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
+
+        <DataGrid x:Name="dgUsers"
+                  Grid.Row="1"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  CanUserAddRows="False"
+                  AlternationCount="1000"
+                  SelectionMode="Single">
+
+            <DataGrid.Columns>
+
+                <!-- ✅ Cột STT dùng AlternationIndex và IndexConverter -->
+                <DataGridTemplateColumn Header="STT" Width="50">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding RelativeSource={RelativeSource AncestorType=DataGridRow},
+                                                      Path=AlternationIndex,
+                                                      Converter={StaticResource IndexConverter}}" 
+                                       HorizontalAlignment="Center"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTextColumn Header="Tên đăng nhập" Binding="{Binding UserName}" Width="150"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding FullName}" Width="200"/>
+                <DataGridTextColumn Header="Quyền" Binding="{Binding Role.RoleName}" Width="120"/>
+                <DataGridCheckBoxColumn Header="Hoạt động" Binding="{Binding IsActive}" Width="80"/>
+                <DataGridTemplateColumn Header="Thao tác" Width="120">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="✏ Sửa" Click="Edit_Click" Padding="5" Tag="{Binding}" Margin="2"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button Content="🔄 Làm mới" Click="Reload_Click" Width="100" Margin="0,0,10,0"/>
+            <Button Content="➕ Thêm mới" Click="Add_Click" Width="100"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,65 @@
+﻿<Window x:Class="WpfApp1.RevenueReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Báo cáo Doanh thu" Height="500" Width="700"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <local:IndexConverter x:Key="IndexConverter"/>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Báo cáo Doanh thu" FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
+
+        <!-- Date selection controls -->
+        <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Chọn ngày:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+            <DatePicker x:Name="dpReportDate" Width="150" SelectedDateChanged="DpReportDate_SelectedDateChanged"/>
+            <Button Content="Xem báo cáo" Click="BtnViewReport_Click" Margin="10,0,0,0"/>
+        </StackPanel>
+
+        <TextBlock Grid.Row="1" Grid.Column="1" x:Name="lblDailyRevenue" Text="Doanh thu ngày: 0 VNĐ" FontSize="16" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+
+        <!-- DataGrid to display ended sessions details -->
+        <DataGrid x:Name="dgEndedSessions" Grid.Row="2" Grid.ColumnSpan="2" AutoGenerateColumns="False" IsReadOnly="True" AlternationCount="1000">
+            <DataGrid.Columns>
+                <!-- STT -->
+                <DataGridTemplateColumn Header="STT" Width="50">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding RelativeSource={RelativeSource AncestorType=DataGridRow},
+                                                      Path=AlternationIndex,
+                                                      Converter={StaticResource IndexConverter}}"
+                                       HorizontalAlignment="Center"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTextColumn Header="Máy" Binding="{Binding Computer.ComputerName}" Width="80"/>
+                <DataGridTextColumn Header="Bắt đầu" Binding="{Binding StartTime, StringFormat={}{0:HH:mm:ss dd/MM/yyyy}}" Width="*"/>
+                <DataGridTextColumn Header="Kết thúc" Binding="{Binding EndTime, StringFormat={}{0:HH:mm:ss dd/MM/yyyy}}" Width="*"/>
+                <DataGridTextColumn Header="Tổng chi phí" Binding="{Binding TotalCost, StringFormat={}{0:N0} VNĐ}" Width="120"/>
+                <DataGridTextColumn Header="Nhân viên" Binding="{Binding Staff.FullName}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StatusBar Grid.Row="3" Grid.ColumnSpan="2" Margin="0,10,0,0">
+            <TextBlock x:Name="lblReportStatus" Text="Chọn ngày để xem báo cáo."/>
+        </StatusBar>
+    </Grid>
+</Window>

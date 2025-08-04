@@ -1,0 +1,5 @@
+C:\Users\manht\Downloads\SE1911\PRN212_SE1911\CSApp-PRN\obj\Debug\net8.0\CSApp-PRN.csproj.AssemblyReference.cache
+C:\Users\manht\Downloads\SE1911\PRN212_SE1911\CSApp-PRN\obj\Debug\net8.0\CSApp-PRN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manht\Downloads\SE1911\PRN212_SE1911\CSApp-PRN\obj\Debug\net8.0\CSApp-PRN.AssemblyInfoInputs.cache
+C:\Users\manht\Downloads\SE1911\PRN212_SE1911\CSApp-PRN\obj\Debug\net8.0\CSApp-PRN.AssemblyInfo.cs
+C:\Users\manht\Downloads\SE1911\PRN212_SE1911\CSApp-PRN\obj\Debug\net8.0\CSApp-PRN.csproj.CoreCompileInputs.cache

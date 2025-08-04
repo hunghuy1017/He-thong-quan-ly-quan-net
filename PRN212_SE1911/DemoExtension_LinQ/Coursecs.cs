@@ -1,0 +1,25 @@
+﻿namespace DemoExtension_LinQ
+{
+    public class Course
+    {
+
+        public Course()
+        {
+        }
+
+        public Course(int id, string title, DateTime startDate)
+        {
+            Id = id;
+            Title = title;
+            StartDate = startDate;
+        }
+
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public DateTime StartDate { get; set; }
+        public override string ToString()
+        {
+            return $"{Id} - {Title} - {StartDate}";
+        }
+    }
+}

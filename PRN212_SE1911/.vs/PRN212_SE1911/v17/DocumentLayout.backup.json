@@ -1,0 +1,755 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\computerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\computerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\computerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\computerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\revenuereportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\revenuereportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\revenuereportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\revenuereportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\sessiondetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\sessiondetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\customerhistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\customerhistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\sessiondetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\sessiondetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\selectproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\selectproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\accounteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\accounteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\addcomputerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\addcomputerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\producteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\producteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDEB2B0-E201-47D6-AE88-45CEA5EAAB78}|TestProject1\\TestProject1.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DDEB2B0-E201-47D6-AE88-45CEA5EAAB78}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\sessionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\sessionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\crudproductapp\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|solutionrelative:crudproductapp\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\netmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\netmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDEB2B0-E201-47D6-AE88-45CEA5EAAB78}|TestProject1\\TestProject1.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\testproject1\\productmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DDEB2B0-E201-47D6-AE88-45CEA5EAAB78}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\productmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDEB2B0-E201-47D6-AE88-45CEA5EAAB78}|TestProject1\\TestProject1.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\testproject1\\validationhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DDEB2B0-E201-47D6-AE88-45CEA5EAAB78}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\validationhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDEB2B0-E201-47D6-AE88-45CEA5EAAB78}|TestProject1\\TestProject1.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\testproject1\\testdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DDEB2B0-E201-47D6-AE88-45CEA5EAAB78}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\crudproductapp\\crudproductapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|solutionrelative:crudproductapp\\crudproductapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\crudproductapp\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|solutionrelative:crudproductapp\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\crudproductapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|solutionrelative:crudproductapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\crudproductapp\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|solutionrelative:crudproductapp\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\crudproductapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|solutionrelative:crudproductapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\crudproductapp\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88760AC-E7A0-44EB-8A4F-1C578795C478}|CRUDProductApp\\CRUDProductApp.csproj|solutionrelative:crudproductapp\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\accountmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\accountmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\computertypewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\computertypewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\accounteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\accounteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\models\\netmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\models\\netmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\models\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\models\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\models\\sessionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\models\\sessionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\models\\indexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\models\\indexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\customerhistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\customerhistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\addcomputerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\addcomputerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\producteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\producteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|c:\\users\\manht\\downloads\\se1911\\prn212_se1911\\wpfapp1\\computertypewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7B8F35-C965-4787-B77F-F16D3302CF33}|WpfApp1\\NetManagement.csproj|solutionrelative:wpfapp1\\computertypewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 255,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComputerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ComputerWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ComputerWindow.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ComputerWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\ComputerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T00:46:07.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComputerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ComputerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ComputerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ComputerWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\ComputerWindow.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswE0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:34:04.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerHistoryWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\CustomerHistoryWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\CustomerHistoryWindow.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\CustomerHistoryWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\CustomerHistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T00:46:17.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RevenueReportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\RevenueReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\RevenueReportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\RevenueReportWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\RevenueReportWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:59:53.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RevenueReportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\RevenueReportWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\RevenueReportWindow.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\RevenueReportWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\RevenueReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T00:46:31.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionDetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\SessionDetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\SessionDetailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\SessionDetailWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\SessionDetailWindow.xaml.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAswO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:43:39.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionDetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\SessionDetailWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\SessionDetailWindow.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\SessionDetailWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\SessionDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-28T16:06:24.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddComputerDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\AddComputerDialog.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\AddComputerDialog.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\AddComputerDialog.xaml",
+              "RelativeToolTip": "WpfApp1\\AddComputerDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T00:46:47.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelectProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\SelectProductWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\SelectProductWindow.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\SelectProductWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\SelectProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T01:38:52.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ProductWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ProductWindow.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ProductWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\ProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T00:46:29.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\AccountEditWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\AccountEditWindow.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\AccountEditWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\AccountEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T00:47:03.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ProductEditWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ProductEditWindow.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ProductEditWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\ProductEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T00:46:21.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\TestProject1\\ProductManagerTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\ProductManagerTests.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\TestProject1\\ProductManagerTests.cs",
+              "RelativeToolTip": "TestProject1\\ProductManagerTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:05:28.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\LoginWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-18T01:31:22.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-18T01:31:08.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\ProductManager.cs",
+              "RelativeDocumentMoniker": "CRUDProductApp\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\ProductManager.cs",
+              "RelativeToolTip": "CRUDProductApp\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:07:52.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SessionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\SessionWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\SessionWindow.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\SessionWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\SessionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T00:46:36.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NetManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\NetManagement.csproj",
+              "RelativeDocumentMoniker": "WpfApp1\\NetManagement.csproj",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\NetManagement.csproj",
+              "RelativeToolTip": "WpfApp1\\NetManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T18:57:17.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestProject1.csproj",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1\\TestProject1.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T00:38:15.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidationHelperTests.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\TestProject1\\ValidationHelperTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\ValidationHelperTests.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\TestProject1\\ValidationHelperTests.cs",
+              "RelativeToolTip": "TestProject1\\ValidationHelperTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:05:34.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TestDataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\TestProject1\\TestDataHelper.cs",
+              "RelativeDocumentMoniker": "TestProject1\\TestDataHelper.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\TestProject1\\TestDataHelper.cs",
+              "RelativeToolTip": "TestProject1\\TestDataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:04:35.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CRUDProductApp.csproj",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\CRUDProductApp.csproj",
+              "RelativeDocumentMoniker": "CRUDProductApp\\CRUDProductApp.csproj",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\CRUDProductApp.csproj",
+              "RelativeToolTip": "CRUDProductApp\\CRUDProductApp.csproj",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T00:41:09.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\ProductService.cs",
+              "RelativeDocumentMoniker": "CRUDProductApp\\ProductService.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\ProductService.cs",
+              "RelativeToolTip": "CRUDProductApp\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:59:14.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "CRUDProductApp\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\ValidationHelper.cs",
+              "RelativeToolTip": "CRUDProductApp\\ValidationHelper.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:15:52.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "CRUDProductApp\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\DatabaseHelper.cs",
+              "RelativeToolTip": "CRUDProductApp\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:07:09.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\Product.cs",
+              "RelativeDocumentMoniker": "CRUDProductApp\\Product.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\Product.cs",
+              "RelativeToolTip": "CRUDProductApp\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:06:45.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDProductApp\\Program.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\CRUDProductApp\\Program.cs",
+              "RelativeToolTip": "CRUDProductApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:06:20.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ComputerTypeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ComputerTypeWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ComputerTypeWindow.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ComputerTypeWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\ComputerTypeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T00:39:55.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccountManagerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\AccountManagerWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\AccountManagerWindow.xaml",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\AccountManagerWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\AccountManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-15T00:46:41.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccountEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\AccountEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AccountEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\AccountEditWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\AccountEditWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwHYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:49:54.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ProductWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\ProductWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T04:34:52.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppSession.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\AppSession.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\AppSession.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\AppSession.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\AppSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:10:33.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\Session.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:00:47.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NetManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\NetManagementContext.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\NetManagementContext.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\NetManagementContext.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\NetManagementContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T02:41:35.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SessionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\SessionViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\SessionViewModel.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\SessionViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\SessionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:07:37.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\Computer.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Computer.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\Computer.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:46:34.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IndexConverter.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\IndexConverter.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\IndexConverter.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\IndexConverter.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\IndexConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:44:11.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CustomerHistoryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\CustomerHistoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\CustomerHistoryWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\CustomerHistoryWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\CustomerHistoryWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIA4wDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:05:47.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\User.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:59:27.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\Models\\Role.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:59:42.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ComputerTypeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ComputerTypeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ComputerTypeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ComputerTypeWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\ComputerTypeWindow.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:39:54.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ProductEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ProductEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\ProductEditWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\ProductEditWindow.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwFEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:48:45.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddComputerDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\AddComputerDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AddComputerDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\manht\\Downloads\\SE1911\\PRN212_SE1911\\WpfApp1\\AddComputerDialog.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\AddComputerDialog.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:49:34.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

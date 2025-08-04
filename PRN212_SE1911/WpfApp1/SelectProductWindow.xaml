@@ -1,0 +1,62 @@
+﻿<Window x:Class="WpfApp1.SelectProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gọi món" Height="400" Width="550"
+        WindowStartupLocation="CenterOwner">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Chọn sản phẩm -->
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Sản phẩm:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+            <ComboBox x:Name="cbProducts" Width="250" DisplayMemberPath="ProductName" SelectionChanged="cbProducts_SelectionChanged"/>
+            <TextBlock Text="Giá:" VerticalAlignment="Center" Margin="20,0,5,0"/>
+            <TextBlock x:Name="txtPrice" Width="80" VerticalAlignment="Center"/>
+        </StackPanel>
+
+        <!-- Số lượng -->
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="0,0,0,10">
+            <TextBlock Text="Số lượng:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+            <TextBox x:Name="txtQuantity" Width="50" Text="1"/>
+            <Button Content="➕ Thêm vào danh sách" Margin="10,0" Click="AddToList_Click"/>
+        </StackPanel>
+
+        <!-- Danh sách món gọi -->
+        <GroupBox Grid.Row="2" Header="Danh sách đã chọn">
+            <DataGrid x:Name="dgSelectedProducts" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Tên sản phẩm" Binding="{Binding Product.ProductName}" Width="*"/>
+                    <DataGridTextColumn Header="Số lượng" Binding="{Binding Quantity}" Width="80"/>
+                    <DataGridTextColumn Header="Đơn giá" Binding="{Binding Product.Price}" Width="100"/>
+                    <DataGridTextColumn Header="Tổng" Width="100" Binding="{Binding TotalPrice}"/>
+                    <DataGridTemplateColumn Header="Thao tác" Width="120">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Focusable="False">
+                                    <Button Content="✏" Width="30" Margin="5,0"
+                        Click="EditProduct_Click"
+                        IsHitTestVisible="True"/>
+                                    <Button Content="🗑" Width="30" Background="Red" Foreground="White"
+                        Click="DeleteProduct_Click"
+                        IsHitTestVisible="True"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+
+        <!-- Nút chọn -->
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button Content="Chọn" Width="100" Margin="0,0,10,0" Click="Select_Click"/>
+            <Button Content="Hủy" Width="80" Click="Cancel_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
